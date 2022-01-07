@@ -4,7 +4,7 @@
 <h4>My Skills Stack:</h4>
 <br/>
 
-#Web App Developer
+<h2><b>Web App Developer</b></h2>
 
 ```Html, Css, Js, TailwindCss```
 <br/>
