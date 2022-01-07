@@ -3,10 +3,15 @@
 
 <h4>My Skills Stack:</h4>
 
-```***Html, Css, Js, TailwindCss***```
+```Html, Css, Js, TailwindCss```
+<br/>
 ```Php, Laravel, MVC, Eloquent```
+<br/>
 ```Databases```
+<br/>
 ```React Native```
+<br/>
 ```Vue.Js```
+<br/>
 
 ```Check my repositories....```
