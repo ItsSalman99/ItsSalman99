@@ -2,24 +2,11 @@
 <hr/>
 
 <h4>My Skills Stack:</h4>
-```
-<ul>
-  <li>
-    Html, Css, Js, TailwindCss
-  </li>
-  <li>
-    Php, Laravel, MVC, Eloquent
-  </li>
-  <li>
-    Databases
-  </li>
-  <li>
-    React Native
-  </li>
-  <li>
-    Vue.Js
-  </li>
-</ul>
-```
+
+```***Html, Css, Js, TailwindCss***```
+```Php, Laravel, MVC, Eloquent```
+```Databases```
+```React Native```
+```Vue.Js```
 
 ```Check my repositories....```
