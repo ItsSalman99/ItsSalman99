@@ -2,12 +2,11 @@
 <hr/>
 
 <h4>My Skills Stack:</h4>
+```
 <ul>
-  ```
   <li>
     Html, Css, Js, TailwindCss
   </li>
-  ```
   <li>
     Php, Laravel, MVC, Eloquent
   </li>
@@ -21,5 +20,5 @@
     Vue.Js
   </li>
 </ul>
-
-<b>Check m repositories....</b>
+```
+<b>Check my repositories....</b>
