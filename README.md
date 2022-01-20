@@ -17,4 +17,7 @@
 ```Vue.Js```
 <br/>
 
+My videos:
+https://www.youtube.com/channel/UCg5_t9uIAUjLfKyGbOE3eeg/videos
+
 ```Check my repositories....```
