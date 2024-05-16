@@ -1,5 +1,4 @@
 <h1>- 👋 Asslam - u - Alaikum ! </h1>
-![Profile Views](https://komarev.com/ghpvc/?username=ItsSalman99)
 <hr/>
 
 
