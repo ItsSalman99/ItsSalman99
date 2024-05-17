@@ -17,3 +17,5 @@ My videos:
 https://www.youtube.com/channel/UCg5_t9uIAUjLfKyGbOE3eeg/videos
 
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ItsSalman99/github-readme-activity-graph)
